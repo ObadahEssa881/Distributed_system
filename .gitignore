@@ -1,0 +1,12 @@
+# compiled output
+*.class
+out/
+bin/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
